@@ -1,0 +1,26 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+relative_permalinks: false
+
+# Setup
+title:            Curtis Li
+tagline:          'A personal page'
+description:      A personal landing page for a student pharmacist-in-training.
+
+url:              http://hyde.getpoole.com
+baseurl:          /
+
+author:
+  name:           ‘Curtis Li’
+  url:            https://www.linkedin.com/pub/curtis-li/37/64/b33
+
+
+# Custom vars
+version:          2.1.0
+
+github:
+  repo:           https://github.com/poole/hyde
