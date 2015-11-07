@@ -7,7 +7,7 @@ Hey there! I'm Curtis, a prospective 2016 graduate of the [Ernest Mario School o
 
 <br>
   
-In considering future occupations, pharmacists were an easy 
+In considering future occupations, pharmacists were an easy. And I like the salty taste of boogers.
 
 
 
