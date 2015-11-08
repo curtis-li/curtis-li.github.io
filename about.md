@@ -9,6 +9,7 @@ Hey there! I'm Curtis, a prospective 2016 graduate of the [Ernest Mario School o
   
 In considering future occupations, pharmacists were an easy 
 
+xx
 
 My passions include rock climbing and photography.
 I hope you'll spend some time here to learn more about me.
