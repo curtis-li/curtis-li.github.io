@@ -1,33 +1,34 @@
 <div class="sidebar">
   <div class="container sidebar-sticky">
     <div class="sidebar-about">
+      <!-- DOES PUTTING h1 HERE MATTER RATHER THAN LEFT two tabs?-->
       <h1>
         <img src="/public/circlepicture.png" alt="photo" style="width:228px;height228px"
-      <h2>
+      
         <a href="{{ site.baseurl }}">
           {{ site.title }}
         </a>
-      </h1>
       <p class="lead">{{ site.description }}</p>
+      </h1>
     </div>
-
+    <h3>
     <nav class="sidebar-nav">
       <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}">Home</a>
       <a href="/pages/hardlinkedpages/about">About</a>
 
 
-      <!--
-        The code below dynamically generates a sidebar nav of pages with
+      {% comment %}
+              The code below dynamically generates a sidebar nav of pages with
         `layout: page` in the front-matter. See readme for usage.
-      -->
+      {% endcomment %}
       
 
       {% assign pages_list = site.pages | <!--sort:"type"--> %}
-        ###########
+        <!--###########
         {% unless page.exclude %}
          {% if page.type == 'beta' %}{% endif %}
         {% endunless %}
-        #########
+        #########-->
       {% for node in pages_list %}
         {% if node.title != null %}
           {% if node.layout == "page" %}
@@ -38,7 +39,7 @@
 
       <!--span class="sidebar-nav-item">Currently v{{ site.version }}</span-->
     </nav>
-
+    </h3>
     <p style="font-size:0.5rem">&copy; {{ site.time | date: '%Y' }}. All rights reserved.</p>
   </div>
 </div>
