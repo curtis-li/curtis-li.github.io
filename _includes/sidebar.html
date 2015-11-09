@@ -2,7 +2,7 @@
   <div class="container sidebar-sticky">
     <div class="sidebar-about">
       <h1>
-        <img src="public/circlepicture.png" alt="frontshot" style="width:228px;height228px"
+        <img src="/public/circlepicture.png" alt="photo" style="width:228px;height228px"
       <h2>
         <a href="{{ site.baseurl }}">
           {{ site.title }}
@@ -18,7 +18,8 @@
         The code below dynamically generates a sidebar nav of pages with
         `layout: page` in the front-matter. See readme for usage.
       {% endcomment %}
-
+      
+      
       {% assign pages_list = site.pages %}
       {% for node in pages_list %}
         {% if node.title != null %}
@@ -27,6 +28,7 @@
           {% endif %}
         {% endif %}
       {% endfor %}
+      
 
       <!--span class="sidebar-nav-item">Currently v{{ site.version }}</span-->
     </nav>
