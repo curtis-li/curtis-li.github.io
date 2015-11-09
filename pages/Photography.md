@@ -1,5 +1,6 @@
 ---
 layout: page
+type: beta
 title: Photography
 ---
 
