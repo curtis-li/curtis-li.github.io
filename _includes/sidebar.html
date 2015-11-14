@@ -14,7 +14,9 @@
     <h3>
     <nav class="sidebar-nav">
       <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}">Home</a>
-      <a href="/pages/hardlinkedpages/about">About</a>
+      <a href="/pages/about">About</a>
+      <br><a href="/pages/Experience">Experience</a>
+      <br><a href="/pages/photography">Photography</a>
 
 
       {% comment %}
@@ -29,7 +31,7 @@
          {% if page.type == 'beta' %}{% endif %}
         {% endunless %}
         #########-->
-      {% for node in pages_list %}
+     <!-- {% for node in pages_list %}
         {% if node.title != null %}
           {% if node.layout == "page" %}
             <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ node.url }}">{{ node.title }}</a>
