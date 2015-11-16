@@ -7,7 +7,7 @@ body {
 #container {
     width: 1000px;
     overflow: hidden;
-    margin: 50px auto;
+    margin: -100px;
     background: white;
 }
 
@@ -31,7 +31,7 @@ header p {
 /*photobanner*/
  
 .photobanner {
-    height: 2000px;
+    height: 4000px;
     width: 25301px;
     margin-bottom: 40;
 }
