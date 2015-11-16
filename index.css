@@ -1,20 +1,17 @@
-* {margin: 0; padding: 0;}
+body {margin: 0; padding: 0;}
  
-body {
-    background: url('boop.jpg');
-}
- 
+
 #container {
-    width: 1000px;
+    width: 100%;
     overflow: hidden;
-    margin: -100px;
+    margin: 0px;
     background: white;
 }
 
 /*header*/
 header {
-    width: 440px;
-    margin: 40px auto;
+    width: auto;
+    margin: 0px;
 }
  
 header h1 {
@@ -31,59 +28,6 @@ header p {
 /*photobanner*/
  
 .photobanner {
-    height: 4000px;
-    width: 25301px;
-    margin-bottom: 40;
-}
-
-.first {
-        -webkit-animation: bannermove 30s linear infinite;
-        -moz-animation: bannermove 30s linear infinite;
-        -ms-animation: bannermove 30s linear infinite;
-        -o-animation: bannermove 30s linear infinite;
-        animation: bannermove 30s linear infinite;
-}
-@keyframes "bannermove" {
-        0% {
-                margin-left: 0px;
-        }
-        100% {
-                margin-left:-2125px;
-        }
-}
-
-@-mozkeyframes "bannermove" {
-        0% {
-                margin-left: 0px;
-        }
-        100% {
-                margin-left:-2125px;
-        }
-}
-
-@-webkit-keyframes "bannermove" {
-        0% {
-                margin-left: 0px;
-        }
-        100% {
-                margin-left:-2125px;
-        }
-}
-
-@-ms-keyframes "bannermove" {
-        0% {
-                margin-left: 0px;
-        }
-        100% {
-                margin-left:-2125px;
-        }
-}
-
-@-o-keyframes "bannermove" {
-        0% {
-                margin-left: 0px;
-        }
-        100% {
-                margin-left:-2125px;
-        }
+    height: 100%;
+    width: 100%;
 }
