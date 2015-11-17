@@ -1,0 +1,14 @@
+body {margin: 0; padding: 0;}
+
+
+@media (min-width: 64em) {
+  .content
+	  #PhotoBanner-Index {
+	    margin-left: -4rem;
+	    margin-right: 0rem;
+	    margin-top: -4rem;
+	    margin-bottom: 0rem;
+	  }
+	  #content.container {
+	  	padding-top: 0rem;
+	  }
