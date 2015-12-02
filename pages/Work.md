@@ -24,7 +24,8 @@ EMT-Basic *(03/2009 - 11/2013)*
 <li>Assist paramedics in treatment of high-risk patients.
 </ul>
 
-##Experiential Rotations
+**##Experiential Rotations
+**------------
 ###Buckley’s Pharmacy – Community Compounding [APPE] 
 #####35 E Palisade Ave, Englewood NJ 07631<ul><li>Compound oral and parenteral medications for patients with unique needs
 <li>Assist patients in selecting alternative medication options</ul>###Englewood Hospital – Transitions of Care [APPE]
