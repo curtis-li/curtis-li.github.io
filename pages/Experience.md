@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Professional Experiences
+title: Professional Experience
 ---
-##Work Experiences
+##Work Experience
 ###Walgreens Pharmacy
 #####20 West Hudson Ave, Englewood NJ 07631
 Pharmacy Intern *(09/2013 - Present)*
@@ -23,9 +23,10 @@ EMT-Basic *(03/2009 - 11/2013)*
 <li>Obtain patient history and triage patients by severity.
 <li>Assist paramedics in treatment of high-risk patients.
 </ul>
-
-**##Experiential Rotations
-**------------
+<br>
+<br>
+##Experiential Rotation
+------------
 ###Buckley’s Pharmacy – Community Compounding [APPE] 
 #####35 E Palisade Ave, Englewood NJ 07631<ul><li>Compound oral and parenteral medications for patients with unique needs
 <li>Assist patients in selecting alternative medication options</ul>###Englewood Hospital – Transitions of Care [APPE]

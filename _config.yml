@@ -9,7 +9,7 @@ relative_permalinks: false
 # Setup
 title:            Curtis Li
 tagline:          'A personal page'
-description:      A personal landing page for a student pharmacist-in-training.
+description:      A page about a student pharmacist.
 
 url:              curtisli.co
 baseurl:          /
