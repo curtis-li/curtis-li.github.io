@@ -3,6 +3,7 @@ layout: page
 title: Professional Experience
 ---
 ##Work Experience
+------------
 ###Walgreens Pharmacy
 #####20 West Hudson Ave, Englewood NJ 07631
 Pharmacy Intern *(09/2013 - Present)*

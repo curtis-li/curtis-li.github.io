@@ -8,7 +8,7 @@ Hey there! I'm Curtis, a prospective 2016 graduate of the [Ernest Mario School o
 
 
 
-My passions include rock climbing and photography.
+My other interests include rock climbing and photography.
 I hope you'll spend some time here to learn more about me.
 
 Connect with me on [LinkedIn](http://www.linkedin.com/in/curtislipharmd)!
