@@ -39,3 +39,8 @@ header p {
 .sidebar {
     width:25%;
 }
+
+#copyright p {}
+    text-align: right;
+    font: 5px;
+}
