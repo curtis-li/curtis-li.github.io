@@ -1,7 +1,8 @@
 ---
 layout: page
-title: Other Stuff
+title: Other Interests
 
 ---
 
-Rock Climbing
+###[Photography](../Photography/)
+

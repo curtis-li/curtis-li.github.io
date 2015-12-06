@@ -2,6 +2,8 @@
 layout: page
 title: Professional Experience
 ---
+
+<br><br>
 ##Work Experience
 ------------
 ###Walgreens Pharmacy
