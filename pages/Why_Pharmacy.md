@@ -9,4 +9,4 @@ I've gravitated towards healthcare for most of my childhood, and as a result, co
 
 It was during my experiential rotations that I began to grow into being a pharmacist. From working with physicians to optimize medication therapy and teaching patients how to manage their complex drug regimen, I found that I enjoyed helping to educate patients and working to improve the quality of their care. It was at this point that I knew I had arrived at my career.
 
-I knew that I wanted to continue Working with patients and clinically enhancing their care. Even though it took me a while to find my rationale for becoming a pharmacist, I am now confident that I am on the right track. 
+I knew that I wanted to continue working with patients and clinically enhancing their care. Even though it took me a while to find my rationale for becoming a pharmacist, I am now confident that I am on the right track. 

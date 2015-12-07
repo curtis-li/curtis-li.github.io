@@ -2,6 +2,8 @@
 layout: page
 title: Extracurriculars
 ---
+<br>
+View my entire Curriculum Vitae [here](../../files/Curriculum_Vitae.pdf). 
 
 ##Academic Projects
 ---

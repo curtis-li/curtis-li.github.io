@@ -2,8 +2,8 @@
 layout: page
 title: Professional Experience
 ---
-
-<br><br>
+<br>
+View my entire Curriculum Vitae [here](../../files/Curriculum_Vitae.pdf). 
 ##Work Experience
 ------------
 ###Walgreens Pharmacy
