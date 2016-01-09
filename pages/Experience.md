@@ -2,7 +2,7 @@
 layout: page
 title: Professional Experience
 ---
-View my entire Curriculum Vitae [here](../../files/Curriculum_Vitae.pdf). 
+View my entire Curriculum Vitae [here](/files/Curriculum_Vitae.pdf).
 
 <br>
 ##Work Experience
